@@ -13,7 +13,7 @@ Mostly security tooling and UI/UIX, plus client work.
 
 ## About
 
-**Goal:** TU DELF :)
+**Goal:** TU DELF :)<br>
 **School:** First year of the IB Diploma<br>
 **Languages:** Greek, English, French
 
